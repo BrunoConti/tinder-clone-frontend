@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Published on FIREBASE: https://tinder-clone-3b9e0.firebaseapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
